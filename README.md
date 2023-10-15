@@ -1,4 +1,4 @@
-# Este repositório está organizado em seções que cobrem vários tópicos relacionados a redes neurais:
+## Seções relacionadas a redes neurais
 
 Fundamentos de Redes Neurais: Uma introdução detalhada sobre o que são redes neurais, como funcionam e os tipos mais comuns.
 
