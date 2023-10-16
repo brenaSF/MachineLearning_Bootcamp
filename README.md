@@ -1,3 +1,5 @@
+Codes to study during the bootcamp
+
 ## Seções relacionadas a redes neurais
 
 Fundamentos de Redes Neurais: Uma introdução detalhada sobre o que são redes neurais, como funcionam e os tipos mais comuns.
