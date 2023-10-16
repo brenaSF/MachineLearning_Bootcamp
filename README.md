@@ -1,4 +1,3 @@
-Codes to study during the bootcamp
 
 ## Seções relacionadas a redes neurais
 
