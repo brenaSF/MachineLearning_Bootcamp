@@ -8,6 +8,15 @@
 - orientação a objetos 
 - controle : if... else, while, for
 
+## Seções de Estatística 
+
+- tipos de dados
+- media, mediana , moda
+- variação e desvio padrão
+- Função Densidade de Probabilidade; Função de massa de probabilidade
+- Distribuição dos Dados (Normal, Binomial, Poisson)
+- Covariância e correlação
+
 ## Seções Web scraping 
 
 - Bibliotecas como BeautifulSoup - facilitam a obtenção e a manipulação de dados da web
