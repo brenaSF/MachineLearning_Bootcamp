@@ -29,5 +29,10 @@ Fundamentos de Redes Neurais: Uma introdução detalhada sobre o que são redes 
 Tipos de Redes Neurais: Explore diferentes tipos de redes neurais, incluindo redes feedforward, redes recorrentes, redes convolucionais, e redes neurais profundas.
 
 
+## Deep Learning
+
+- processamento de linguagem natural ( CNNs )
+- Função de perda
+- Gradiente descedente 
 
 </p>
