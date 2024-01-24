@@ -1,0 +1,35 @@
+EXERCÍCIO DE DOCKER
+
+a1) executar um container UBUNTU em modo interativo 
+	
+    docker run -it ubuntu 
+
+a2) instalar ngnix 
+	
+    apt-get update
+	apt-get install -y nginx
+
+a3) inicializar o servidor
+	
+    service nginx start
+
+b) comando commit/ gerar imagem ubuntu-allumy
+	
+    docker commit 1a2b3c4d5e6f ubuntu-allumy
+
+c) exportar a imagem para o arquivo ubuntu-allumy.tar através do comando save
+
+    docker save -o ubuntu-allumy.tar ubuntu-allumy
+
+d) remover a imagem ubuntu-allumy 
+
+    docker rm -f ubuntu-allumy
+
+e) importar a imagem com ubuntu-allumy.tar através do comando load
+    
+    docker load -i ubuntu-allumy.tar
+
+f) rodar um container a partir da imagem importada
+
+    docker run -it ubuntu-allumy /bin/bash
+
